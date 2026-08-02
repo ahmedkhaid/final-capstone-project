@@ -1,6 +1,6 @@
 # Sharing App
 
-An Android application designed to help users track items they own and manage sharing them with contacts. The app keeps a local record of your inventory and logs which items are currently available versus those borrowed by your contacts.
+An Android application designed to help users track items they own and manage sharing them with contacts. This project was developed as the final Capstone project for the Object-Oriented Design (OOD) course at the University of Alberta. The app keeps a local record of your inventory and logs which items are currently available versus those borrowed by your contacts.
 
 ## Features
 * **Item Management:** Add, edit, and delete items. Items can include a title, maker, description, dimensions, and a photo.
