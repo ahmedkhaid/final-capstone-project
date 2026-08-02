@@ -11,7 +11,7 @@ An Android application designed to help users track items they own and manage sh
 
 ## UML Diagram
 
-[View the Sharing App UML Diagram here](images/_378261654f7e71fc7355bb8aa5d67853_UML-Class-Diagram-Contacts.png)
+![Sharing App UML Diagram](images/_378261654f7e71fc7355bb8aa5d67853_UML-Class-Diagram-Contacts.png)
 
 ## Demo Video
 
